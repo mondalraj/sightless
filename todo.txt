@@ -1,0 +1,20 @@
+Timeline =>
+
+1.✔ Setting up proper folder structure
+2.✔ Creating the HomeScreen, ContactScreen, AboutScreen, ProjectScreen components to be rendered
+3. Setting up react router
+4. Creating responsive nav bar and footer in app.js using bootstrap
+5. Developing the heroSection component of HomeScreen
+6. Building the testimonials component in HomeScreen
+7. Building the services/ features component in HomeScreen
+8. Building the ContactScreen Form with validation
+9. Building the AboutScreen Component 
+10. Deploying the app on firebase
+11. Retouching the aetheticness of web-app
+12. Re-flourishing the color and animation effects.
+
+Color-Pallete ->
+Sand Tan: #e1b382
+Sand Tan Shadow: #c89666
+Night Blue: #2d545e
+Night Blue Shadow: #12343b
