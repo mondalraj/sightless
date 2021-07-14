@@ -14,7 +14,13 @@ Timeline =>
 12. Re-flourishing the color and animation effects.
 
 Color-Pallete ->
+
 Sand Tan: #e1b382
 Sand Tan Shadow: #c89666
 Night Blue: #2d545e
 Night Blue Shadow: #12343b
+
+Special Effects ->
+Glassmorphic design
+Scroll animation
+Parallax effect
